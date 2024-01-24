@@ -85,3 +85,29 @@ div.pontos-chaves h4::after {
     content: " ";
 }
 
+/*seção pizza*/
+section.pizza p.destaque{
+    color: #fff;
+    width: 40% ;
+}
+section.pizza ul li{
+    color: white;
+    list-style: none;
+    line-height: 1.9;
+    font-size: 90%;
+    text-transform: uppercase;
+}
+section.pizza ul li a{
+    color: white;
+    list-style: none;
+    line-height: 1.9;
+    font-size: 90%;
+    text-transform: uppercase;
+}
+
+/*seçao depoimentos*/
+
+section.testemunha p.destaque{
+    width: 40%;
+    background-color: rgba(255, 255, 255, 0.7);
+}
